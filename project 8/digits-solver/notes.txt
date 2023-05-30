@@ -1,0 +1,13 @@
+# TODO LIST
+
+- [ ] stack files
+- [ ] read from file
+- [ ] permutation whatever pseudocode
+- [ ] actually code permutation whatever
+- [ ] actually code operate()
+
+- [ ] get makefile to work
+
+- [ ] testing testing testing
+
+- [ ] formatting
