@@ -1,0 +1,8 @@
+nodes 8
+moves 6
+place 3
+clock 3
+place 5
+anti 6
+clock 4
+clock 5
